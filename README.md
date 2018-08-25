@@ -1,4 +1,4 @@
-# build-a-bot
+# bugtracker
 
 ## Project setup
 ```
