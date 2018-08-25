@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bugtracker
 
 ## Project setup
@@ -19,3 +20,7 @@ npm run build
 ```
 npm run lint
 ```
+=======
+# VueJS_BugTracker
+Just playing with VueJS. Basically this is a VueJS sandpit.
+>>>>>>> 94f606010f85ef94a1cf6b939254782660202100
